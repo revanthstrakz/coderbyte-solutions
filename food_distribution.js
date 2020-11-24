@@ -41,3 +41,4 @@ function ArrayChallenge(arr) {
 console.log(ArrayChallenge(readline()));
 
 
+
